@@ -1,7 +1,8 @@
-var movies = JSON.parse(movies).movies;
-for (var i = 0; i < movie.length; i++) {
-	var card =
-	`<div class="col-lg-5 media bg-dark text-white p-4 mb-3">
+var movies = data;
+
+for (var i = 0; i < movies.length; i++) {
+    var card =
+    `<div class="col-lg-5 media bg-dark text-white p-4 mb-3">
     <img class="media-left pr-4" alt="Image" src="${movies[i].image}">
     <div class="media-body">
         <h4 class="card-title">${movies[i].name}</h4>
