@@ -16,7 +16,7 @@ const addLike = function(index) {
 }
 
 // functions end
-
+// media class bootstrap: https://www.w3schools.com/bootstrap/bootstrap_media_objects.asp
 for (var i = 0; i < movies.length; i++) {
 	var card =
 	`<div id="container" class="col-lg-5 media bg-dark text-white p-4 mb-3">
