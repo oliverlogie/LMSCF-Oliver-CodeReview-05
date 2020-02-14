@@ -1,5 +1,5 @@
 img{
-	height: 13em;
+	height: 15em;
 }
 
 .media{
@@ -17,4 +17,17 @@ img{
 
 .mycolor{
 	background-color: black;
+}
+
+.navbarcolor{
+	background-color: #303030;
+}
+
+.navbarcolor a{
+	font-size: 2rem;
+}
+
+#row{
+	display: flex;
+	justify-content: space-between;
 }
