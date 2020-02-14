@@ -14,3 +14,7 @@ img{
 	display: flex;
 	width: 10%;
 }
+
+.mycolor{
+	background-color: black;
+}
