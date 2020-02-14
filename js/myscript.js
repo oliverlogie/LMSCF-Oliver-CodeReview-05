@@ -3,14 +3,13 @@ var movies = data;
 var likeCounter = [];
 
 movies.forEach( function(){
-    likeCounter.push(Math.floor(Math.random()* Math.floor(10)));
+    likeCounter.push(Math.floor(Math.random()* Math.floor(15)));
     }
 )
 
 
 // functions
 const addLike = function(index) {
-    // likeCounter[index] += 1;
     var like = $(`#likes${index}`).html();
     like++;
     $(`#likes${index}`).html(like);
