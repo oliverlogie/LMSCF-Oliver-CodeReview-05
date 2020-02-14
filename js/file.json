@@ -1,0 +1,39 @@
+
+ "movies":[
+
+		{
+			"name": "Crawl",
+			"desc": " Wenn der Sturm dich nicht erwischt ... Dann sie!Als ein heftiger Sturm auf die Küste Floridas trifft, ignoriert Haley alle Aufforderungen zur Evakuierung, um nach ihrem vermissten Vater zu suchen. Sie findet ihn von den Fluten eingeschlossen im Keller seines abgelegenen Hauses vor.",
+			"image":"img/Crawl.jpg"
+		},
+
+		{
+			"name": "Gemini Man",
+			"desc": "Erleben Sie Will Smith in einer gnadenlosen Verfolgungsjagd von Regisseur und Oscar®-Preisträger Ang Lee.Henry Brogan (Will Smith) ist ein Elite-Auftragskiller, der sich zur Ruhe setzen will.",
+			"image":"img/Geminiman.jpg"
+		},
+
+		{
+			"name":"Ghost Movie",
+			"desc":"Malcolm Johnson ist ein Glückspilz. Seine Freundin Kisha zieht endlich in sein Haus, und dem gemeinsamen Glück - und einem geregelten Sexualleben - scheint nichts mehr im Weg zu stehen.",
+			"image":"img/Ghostmovie.jpg"
+		},
+
+		{
+			"name":"Killqys",
+			"desc": "Dutch (Hannah John-Kamen) und den Brüdern John & D‘avin (Aaron Ashmore, Luke Macfarlane) steht eine gefährliche Mission bevor, denn ihr größter Feind, die tödliche Lady, hat es geschafft in die Realität zu gelangen.",
+			"image": "img/Killqys.jpg"
+		},
+
+		{
+			"name":"Movie43",
+			"desc": "Speed-Dating unter dem Motto Superhelden: Während Wonderwoman nach einer heißen Nacht mit Batman nun vergeblich auf seinen Anruf wartet, hat dieser nur Augen für Supergirl. Die scheint aber eher von Batmans Gehilfen Robin besgeistert zu sein.",
+			"image":"img/Movie43.jpg"
+		},
+
+		{
+			"name":"Superhero",
+			"desc": "Rick Riker ist ein Loser, wie er im Buche steht. Er ist ein Schwächling, saumäßig schüchtern und sieht maximal mittelprächtig aus. Das ändert sich jedoch schlagartig, als er von einer genmanipulierten Libelle gestochen wird und dadurch zum Superhero mutiert.",
+			"image":"img/Superhero.jpg"
+		}
+]
