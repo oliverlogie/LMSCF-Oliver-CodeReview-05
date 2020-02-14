@@ -24,8 +24,8 @@ for (var i = 0; i < movies.length; i++) {
     <div class="media-body">
         <h4 class="card-title">${movies[i].name}</h4>
         <p class="card-text">${movies[i].desc}</p>
-        <div class="alignButton"><button onclick="addLike(${i})" id="likeButton" type="button" class="btn bg-dark text-success btn-sm">Like <i class="fas fa-thumbs-up"></i> </button>
-            <span id="likes${i}" class="likes b-0">${likeCounter[i]}</span>
+        <div class="alignButton"><button onclick="addLike(${i})" id="likeButton" type="button" class="btn bg-dark text-success btn-sm pb-2">Like <i class="fas fa-thumbs-up"></i> </button>
+            <span id="likes${i}" class="likes">${likeCounter[i]}</span>
         </div>
     </div>
 </div>`;
